@@ -1,0 +1,78 @@
+.social{
+	width: 75px;
+	height: 125px;
+	border: 1px solid black;
+	background-color: lightblue;
+	position: fixed;
+	top: 5px;
+	left: 5px;
+	text-align: center;
+}
+
+.column1{
+	width:46%;
+	border: 5px dotted black;
+	float: left;
+	padding: 5px;
+	box-sizing: border-box;
+}
+
+.column2{
+	width:30%;
+	border: 5px dotted black;
+	float: left;
+	padding: 5px;
+}
+
+#center{
+	margin: 0 auto;
+	width: 1000px;
+}
+
+.left{
+	margin-right: 2%
+}
+
+.right{
+	margin-left: 2%;
+}
+
+.getty{
+	font-family: "courier";
+	color: green;
+	text-transform: bold;
+	text-align: center;
+	text-decoration: underline;
+}
+
+img{
+	float: left;
+	width: 250px;
+	height: 250px;
+	display: inline-block;
+	padding: 20px;
+	background-color: green;
+	border-radius: 15px
+}
+
+.gallery-button{
+	position: absolute;	
+	background-color: blue;
+	text-align: center;
+	text-transform: bold;
+	width: 100px;
+	padding: 10px;
+	border-radius: 5px;
+	color: white;
+	bottom: 15px;
+	left: 5px;
+	float: clear;
+}
+
+.gallery{
+	margin: 0 auto;
+	width: 900px;
+	padding: 15px;
+	box-sizing: border-box;
+
+}
