@@ -56,16 +56,15 @@ img{
 }
 
 .gallery-button{
-	position: absolute;	
+	position: relative;	
 	background-color: blue;
 	text-align: center;
-	text-transform: bold;
 	width: 100px;
 	padding: 10px;
 	border-radius: 5px;
 	color: white;
-	bottom: 15px;
-	left: 5px;
+	bottom: 0px;
+	left: 455px;
 	float: clear;
 }
 
@@ -74,5 +73,4 @@ img{
 	width: 900px;
 	padding: 15px;
 	box-sizing: border-box;
-
 }
